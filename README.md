@@ -2,6 +2,8 @@
 
 A **modern Pomodoro productivity app** built with **Next.js**, featuring **task tracking, Rantspace, and AI-powered chatbot** using **Google Gemini**. Helps users focus, manage tasks, and vent or brainstorm ideas efficiently.
 
+
+Link: https://paldoro.netlify.app/
 ---
 
 ## Features
