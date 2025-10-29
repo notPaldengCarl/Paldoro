@@ -41,19 +41,3 @@ Link: https://paldoro.netlify.app/
 - Dark mode ready (Tailwind CSS / inline styles).
 - Smooth **animations** using Framer Motion.
 
-### Deployment Ready
-- Compatible with **Vercel**, **Netlify**, or other hosting platforms.
-- No database required (Rantspace saved locally).
-- Environment variables used for **Gemini API key**.
-
----
-
-## Installation
-
-```bash
-# Clone the repository
-git clone <your-repo-url>
-cd <your-project-directory>
-
-# Install dependencies
-npm install
